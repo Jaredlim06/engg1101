@@ -1,4 +1,5 @@
 # engg1101
-robotic arm repo 
-## my goal 
-I want to use github for my engineering projects 
+robotic arm repo  
+## My goal
+
+I want to use GitHub for my engineering projects.
